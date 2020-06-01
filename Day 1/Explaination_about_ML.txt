@@ -1,0 +1,18 @@
+AI, ML, DL, these are the buzz words today. But that does these words exactly? Let me explain you.
+
+First let’s start with some of the most heard acronyms:
+•	Artificial Intelligence (AI): it is program which makes machine intelligent.
+•	Machine Learning (ML): it is a program which learns from experience.
+•	Deep Learning (DL): it is basically ML model but lens from experience from a large dataset.
+
+There are still many more acronyms in this. For e.g. Artificial Neural Network (ANN), which refers to the models of human neural networks designed to help machines to learn. Another one is Natural Language Processing (NLP), which refers to understanding the language. Automated Speech Recognition (ASR) or simply Speech Recognition (SR) refers to the ability of an machine to recognise what a human being is saying.
+
+There is a big misunderstanding is that AI and ML are same. But they are not. AI is a computer program which intelligently does any task without any help/aid as we human beings do. AI makes any machine intelligent or smart. We do not have a complete AI at present but we are on the way of achieving that goal. There are many sci-fi movies which portray what AI could do in future. For e.g. in Marvel Comics, Tony Stark is the father of AI. He created many different AIs some of which we know as JARVIS, FRIDAY, VERONICA, ULTRON, EDITH etc.
+
+Machine Learning (ML) is a computer program which learns from experience like newly born babies do. Baby learns from what we teach them, the data we give them to learn like we help them to walk or talk or eat, etc. It is same for ML. It learns from the data you provide. ML is a subset of AI. AI uses multiple ML models to do the task. AI can do multiple tasks but ML model can be specialised in only one particular task. For e.g. add recommendations on google when you search anything, or automatically tagging your friends when you upload a pic on Facebook, or even real-time facial recognition on airports are some of the ML models. All these models are specially trained in one particular area by providing the required data.
+
+Deep Learning (DL) is basically a ML model which learns from a large amount of data. For e.g. facial recognition can be called a DL model as every day it gets a lot of data from the travellers or even Netflix or amazon prime recommendations gets to learn from the content people watch every day.
+
+Mathematician Allen Turing was the first person to make a machine that could think. He was the man who cracked the most secure encryption machine of that time called Enigma which was used during world war 2 by Nazis for communication.
+
+Application of AI/ML is very vast. AI/ML can be used as Virtual personal assistants like Siri, Alexa, Google assistant, etc. It can be used for weather forecasting, video surveillance, social media services(e.g. "People you may know", face recognition), filtering spam emails, product recommendations on flipkart/amazon, fraud detection, online consumer support, etc.
